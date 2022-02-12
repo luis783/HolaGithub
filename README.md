@@ -6,7 +6,7 @@
 ###### Header 6
 mi primer repositorio
 
-cambiado desde el bloc de notas
+cambiado desde el bloc de notas 2
 
 **Texto en negrita** __Otro texto en negrita__
 
