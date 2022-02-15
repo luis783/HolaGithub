@@ -23,4 +23,6 @@ comandos
 
 el enalece de este readme esta [aqui](https://github.com/luis783/HolaGithub/edit/main/README.md)
 
-[imagen itchii]()
+[imagen itchii](![image](https://user-images.githubusercontent.com/39103020/154155315-23250433-1ef4-4ae1-a1b9-6744ba12461f.png)
+
+)
